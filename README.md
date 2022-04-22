@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gabriele De Toffol
 - 👀 I’m interested in Cloud
-- 🌱 I’m currently learning AWS/Terraform/Azure
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning CSP
+- 💞️ I’m looking to collaborate on projects related to ACC / Rfactor2 & AM2
 - 📫 How to reach me message here
 
 <!---
