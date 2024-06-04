@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Gabriele De Toffol
-- 👀 I’m interested in Cloud
-- 🌱 I’m currently learning CSP
-- 💞️ I’m looking to collaborate in simracing related projects
+- 👀 I’m A Cloud Guy
 - 📫 How to reach me message here
 
 <!---
